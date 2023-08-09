@@ -1,5 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelance projects
 👯 I’m looking to collaborate on something interesting :)
 
 # 💻 Tech Stack:
